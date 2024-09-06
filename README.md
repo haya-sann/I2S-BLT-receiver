@@ -1,4 +1,4 @@
-# モバイル音源からBluetooth接続してスピーカーを鳴らす-380円で買えるDACは素晴らしくバランスの取れた良い音がする？
+# モバイル音源からBluetooth接続してスピーカーを鳴らす-380円で買えるDACは素晴らしくバランスの取れた良い音がする
 
 WCMCU-1334をWemos d1-mini-ESP32にI2S接続
 ![31EA432F-44CB-435D-9379-BCF96623DF02_1_102_o](https://github.com/user-attachments/assets/3bd2be1e-f6c2-48ec-915b-7ce60ffbe906)
