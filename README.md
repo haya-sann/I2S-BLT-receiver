@@ -1,21 +1,22 @@
-モバイル音源からBluetooth接続してスピーカーを鳴らす-380円で買えるDACはどんな音がする？
+# モバイル音源からBluetooth接続してスピーカーを鳴らす-380円で買えるDACは素晴らしくバランスの取れた良い音がする？
+
 WCMCU-1334をWemos d1-mini-ESP32にI2S接続
 ![31EA432F-44CB-435D-9379-BCF96623DF02_1_102_o](https://github.com/user-attachments/assets/3bd2be1e-f6c2-48ec-915b-7ce60ffbe906)
 
-使うI2SのDACはUDA-1334A（フィリップス設計）
+**使うI2SのDACはUDA-1334A（フィリップス設計）**
 
-結線図
+**結線図**
 
 <img width="1024" alt="Image 20240830 044727" src="https://github.com/user-attachments/assets/0d998775-aa11-4b46-b49f-5936fc7d64e2">
 
 
 
-使用DACモジュール：UDA-1334A
+**使用DACモジュール：UDA-1334A**
 オランダのNXP Semiconductors N.V. (NXP) is a public Dutch company製のDAC．
 
 ![image](https://github.com/user-attachments/assets/4f22c76f-b9d8-426d-8e54-4471831496e3)
 
-■基本仕様：
+**■基本仕様：**
  General 
 - 2.4 to 3.6 V power supply voltage 
 - On-board PLL to generate the internal system clock: 
@@ -36,6 +37,6 @@ Bluetooth受信＆   DACへの流し込みを行うCPUはESP-32ベースのWemos
 
 
 ESP32：Wi-FiとBluetoothを内蔵する低コスト、低消費電力なSoCのマイクロコントローラ。 TensilicaのXtensa LX6マイクロプロセッサを採用しデュアルコアとシングルコア版のバリエーションがある。 ESP32は、上海に拠点を置くEspressif Systemsが開発し、台湾積体電路製造（TSMC）の40nm工程で製造されている[2]。 ESP8266の後継製品にあたる。
-これを使いやすいサイズに納めたのがWemosのd1-mini_ESP32。
+これを使いやすいサイズに納めたのがWemosの**d1-mini_ESP32**。
 日本の電波法に則った「技適取得済み」モジュール。
 これを、上の回路図のように組み立て、小さなピルケースに納めました。
